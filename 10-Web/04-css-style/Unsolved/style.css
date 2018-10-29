@@ -1,1 +1,54 @@
 /* Follow the instructions within the html file to style the page */
+body {
+    font-family:verdana;
+}
+
+section {
+    width: 800px;
+    background-color: lightgrey;
+    margin: auto;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+h1 {
+    text-align: center;
+    color: gray;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.center img {
+    width: 560px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
+
+.center iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+
+.text1 p {
+    color: darkgoldenrod;
+    font-size: 20px;
+}
+
+h2 {
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.text2 p {
+    text-align: right;
+    font-style: italic;
+}
